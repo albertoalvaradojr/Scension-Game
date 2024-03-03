@@ -27,9 +27,9 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/a97c6c70-738a
 
 <br>
 <br>
-/*
+<!--
 Here I created a combat meter that lets the player know when the player is free of combat. Once he is damaged the progess meter goes to zero and slowly increases until it reaches the no combat status. As well, the Health number inside the circle is synced with the health bar the the player can know exactly how much health they have.
-*/
+-->
 <br>
 <br>
 
