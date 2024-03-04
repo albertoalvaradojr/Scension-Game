@@ -1,5 +1,6 @@
 # Scension-Game
 Created using Unreal Engine 5 and Lyra's Plugin.
+<br>
 In charge of Implementing UI and core gameplay mechanics. Some examples can be seen below including the minimap, players in your team (left side), player stats (top right corner), arena status (top next to minimap) Gold inventory, abilities and combat meter.
 
 
