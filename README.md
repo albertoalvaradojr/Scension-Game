@@ -13,6 +13,14 @@ In charge of Implementing UI and core gameplay mechanics. Some examples can be s
 <br>
 <br>
 <br>
+<br>
+<br>
+
+
+
+
+<!--                                          Directional UI and Map                                                                           -->
+
 
 <h2>
   Directional UI and Map
@@ -38,6 +46,16 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!--                                          Combat Meter                                                                          -->
+
+
+
 <h2>
   Combat Meter
 </h2>
@@ -52,6 +70,15 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/a97c6c70-738a
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!--                                           Security System                                             -->
+
+
 
 <h2>
   Security System
@@ -72,6 +99,16 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/706e4b45-0de2
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
+<!--                                           Blessed Status/Teleporter Logic                                             -->
+
+
+
 
 <h2>Blessed Status/Teleporter Logic</h2>
 
@@ -99,6 +136,16 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/4e264437-6db0
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<!--                                           Dragon Call                                             -->
+
+
 
 <h2>Dragon Call</h2>
 
@@ -130,6 +177,16 @@ To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<!--                                          Neutral Rewards Logic                                             -->
+
+
 
 <h2>Neutral Rewards Logic</h2>
 
