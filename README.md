@@ -80,12 +80,17 @@ Blessed Status allows player to enter the Boss arena and automatically teleports
 
 <br>
 
-![Screenshot (403)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9e779204-2c03-4fe8-8ffc-ca73d98b884f)
-![Screenshot (402)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/45d7f938-d40d-4a44-a70c-caed1189d215)
-![Screenshot (401)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/e683ad41-8c8c-4659-abb2-e3afff1f2ac1)
-![Screenshot (399)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/8266da4e-347a-42a4-a295-1b58fb039f92)
-![Screenshot (397)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9133e0fb-1bca-4e32-b499-52bc0c8efea1)
 ![Screenshot (396)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c)
 
+![Screenshot (397)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9133e0fb-1bca-4e32-b499-52bc0c8efea1)
 
+
+![Screenshot (399)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/8266da4e-347a-42a4-a295-1b58fb039f92)
+
+
+![Screenshot (401)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/e683ad41-8c8c-4659-abb2-e3afff1f2ac1)
+
+![Screenshot (402)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/45d7f938-d40d-4a44-a70c-caed1189d215)
+
+![Screenshot (403)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9e779204-2c03-4fe8-8ffc-ca73d98b884f)
 
