@@ -64,7 +64,7 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/706e4b45-0de2
 <h2>Blessed Status/Teleporter Logic</h2>
 
 <br>
-Blessed Status allows player to enter the Boss arena and automatically teleports their team inside. You cannot use abilities while Blessed and once you die or get downed, the status goes away. I synced the status to the UI and added in A VFX that was created by one of the artist of the team. All players will know how many players are blessed.
+Blessed Status allows player to enter the Boss arena and automatically teleports their team inside. You cannot use abilities while Blessed and once you die or get downed, the status goes away. Players can only get the status by taking the Teleporter at the end of the map to the Floating Island(Cost 10,000 gold) and then drink from the founatin. I synced the status to the UI and added in A VFX that was created by one of the artist of the team. All players will know how many players are blessed.
 
 <br>
 <br>
