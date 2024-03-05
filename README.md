@@ -61,7 +61,7 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/706e4b45-0de2
 <br>
 <br>
 
-<h2>Blessed Status Logic</h2>
+<h2>Blessed Status/Teleporter Logic</h2>
 
 <br>
 Blessed Status allows player to enter the Boss arena and automatically teleports their team inside. You cannot use abilities while Blessed and once you die or get downed, the status goes away. I synced the status to the UI and added in A VFX that was created by one of the artist of the team. All players will know how many players are blessed.
@@ -70,6 +70,10 @@ Blessed Status allows player to enter the Boss arena and automatically teleports
 <br>
 
 ![Screenshot (385)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/c1bd575d-ed6d-4ea5-882a-50dd1decbf33)
+
+
+
+https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/4dd929f4-1f04-45ff-8639-abed5fc335b4
 
 
 <br>
