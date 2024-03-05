@@ -79,6 +79,13 @@ Blessed Status allows player to enter the Boss arena and automatically teleports
 
 
 <br>
+When a dragon call is made, a 2 minute timer begins counting down. Teams only retain the information of the dragon call timers and the dragon pit statuses to arena’s that their team controls.
+When within the circular minimap radius of enemy dragon pits, the dragon-pit information is visible to all allies, but only while remaining inside of the circular minimap radius.
+When the 2 minute dragon timer has elapsed a random dragon of the multiple different types will arrive in the pit and stay in the dragon pit until any team has slain the dragon.
+To activate the Dragon Call, 10,000 gold is required.
+
+<br>
+<br>
 
 ![Screenshot (396)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c)
 
