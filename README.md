@@ -130,4 +130,3 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/71516666-8549
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wxigfxh57b8?si=SnkI6yiWMY_ntrGS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
