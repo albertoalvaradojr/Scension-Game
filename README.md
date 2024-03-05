@@ -7,6 +7,8 @@ In charge of Implementing UI and core gameplay mechanics. Some examples can be s
 
 ![Screenshot (369)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/a14dbee3-0a36-453c-91bb-356ef0a401cb)
 
+<br>
+<br>
 
 <h2>
   Directional UI and Map
