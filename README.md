@@ -36,6 +36,8 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327
 
 <br>
 <br>
+<br>
+<br>
 <h2>
   Combat Meter
 </h2>
@@ -46,6 +48,8 @@ Combat meter that lets the player know when the player is free of combat. Once h
 
 https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/a97c6c70-738a-4c4d-b173-0806d97945ef
 
+<br>
+<br>
 <br>
 <br>
 
@@ -64,6 +68,8 @@ Security system that you can construct that lets your team know when an enemy ha
 
 https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/706e4b45-0de2-44db-a205-bde35cf4802f
 
+<br>
+<br>
 <br>
 <br>
 
@@ -89,6 +95,8 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/4e264437-6db0
 
 
 
+<br>
+<br>
 <br>
 <br>
 
@@ -118,6 +126,8 @@ To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon
 
 
 
+<br>
+<br>
 <br>
 <br>
 
