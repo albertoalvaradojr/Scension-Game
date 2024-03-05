@@ -149,8 +149,6 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/4e264437-6db0
 
 <h2>Dragon Call</h2>
 
-
-<br>
 When a dragon call is made, a 2 minute timer begins counting down. Teams only retain the information of the dragon call timers and the dragon pit statuses to arena’s that their team controls.
 When within the circular minimap radius of enemy dragon pits, the dragon-pit information is visible to all allies, but only while remaining inside of the circular minimap radius.
 When the 2 minute dragon timer has elapsed a random dragon of the multiple different types will arrive in the pit and stay in the dragon pit until any team has slain the dragon.
@@ -159,12 +157,12 @@ To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon
 <br>
 <br>
 
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c" width = "500" height="375"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9133e0fb-1bca-4e32-b499-52bc0c8efea1" width = "500" height="375"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/8266da4e-347a-42a4-a295-1b58fb039f92" width = "500" height="375"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/e683ad41-8c8c-4659-abb2-e3afff1f2ac1" width = "500" height="375"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/45d7f938-d40d-4a44-a70c-caed1189d215" width = "500" height="375"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9e779204-2c03-4fe8-8ffc-ca73d98b884f" width = "500" height="375"/>
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c" />
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9133e0fb-1bca-4e32-b499-52bc0c8efea1" />
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/8266da4e-347a-42a4-a295-1b58fb039f92" />
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/e683ad41-8c8c-4659-abb2-e3afff1f2ac1" />
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/45d7f938-d40d-4a44-a70c-caed1189d215" />
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9e779204-2c03-4fe8-8ffc-ca73d98b884f" />
 
 
 
