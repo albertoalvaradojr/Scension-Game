@@ -22,8 +22,7 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327
 <br>
 <br>
 
-![Screenshot (384)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/2b73d985-ec01-4615-9838-c9c155518093)
-![Screenshot (383)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/deb46fe9-4d7c-4b0c-bed0-d98b23532ef5)
+![Screenshot (384)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/2b73d985-ec01-4615-9838-c9c155518093) ![Screenshot (383)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/deb46fe9-4d7c-4b0c-bed0-d98b23532ef5)
 ![Screenshot (382)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/be22c5ab-bb24-4fe0-8003-10dec0cf9375)
 ![Screenshot (387)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/24711642-567c-4b77-b52a-0dc6e7801697)
 ![Screenshot (386)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/7921f994-c846-4301-b0ec-f3da176dbc84)
