@@ -97,12 +97,12 @@ To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon
 <br>
 <br>
 
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c" width = "350" height="200"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9133e0fb-1bca-4e32-b499-52bc0c8efea1" width = "350" height="200"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/8266da4e-347a-42a4-a295-1b58fb039f92" width = "350" height="200"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/e683ad41-8c8c-4659-abb2-e3afff1f2ac1" width = "350" height="200"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/45d7f938-d40d-4a44-a70c-caed1189d215" width = "350" height="200"/>
-<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9e779204-2c03-4fe8-8ffc-ca73d98b884f" width = "350" height="200"/>
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c" width = "550" height="300"/>
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9133e0fb-1bca-4e32-b499-52bc0c8efea1" width = "550" height="300"/>
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/8266da4e-347a-42a4-a295-1b58fb039f92" width = "550" height="300"/>
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/e683ad41-8c8c-4659-abb2-e3afff1f2ac1" width = "550" height="300"/>
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/45d7f938-d40d-4a44-a70c-caed1189d215" width = "550" height="300"/>
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9e779204-2c03-4fe8-8ffc-ca73d98b884f" width = "550" height="300"/>
 
 
 
