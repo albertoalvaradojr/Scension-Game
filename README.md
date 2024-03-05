@@ -75,7 +75,8 @@ Blessed Status allows player to enter the Boss arena and automatically teleports
 
 
 
-
+<br>
+<br>
 
 https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/4e264437-6db0-4cc6-8990-04e4980fd1db
 
