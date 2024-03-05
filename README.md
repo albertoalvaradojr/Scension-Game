@@ -111,3 +111,16 @@ To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon
 
 ![Screenshot (403)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9e779204-2c03-4fe8-8ffc-ca73d98b884f)
 
+<br>
+<br>
+
+<h2>Neutral Rewards Logic</h2>
+
+<br>
+Neutral rewards are released in 4 sections that are continuously cycled throughout the entire match. Starting at 90 seconds into the match the reward zones labeled #1 will activate(releasing a treasure chest) at the marked location, allowing any player from any team to collect the neutral reward, rewarding their entire team with massive amounts of gold. I implemented the logic behind the Neutral Reward Timers,spawning, and UI for the rewards.
+
+<br>
+
+
+https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/71516666-8549-4117-b0ca-bd8594eca1cf
+
