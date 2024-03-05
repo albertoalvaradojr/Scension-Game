@@ -97,7 +97,7 @@ To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon
 <br>
 <br>
 
-![Screenshot (396)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c)
+<img src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/cce952bd-47e2-4802-8ec0-14efd202a42c">
 
 ![Screenshot (397)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/9133e0fb-1bca-4e32-b499-52bc0c8efea1)
 
