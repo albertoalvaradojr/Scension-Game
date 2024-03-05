@@ -21,6 +21,7 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327
 
 <br>
 <br>
+
 ![Screenshot (384)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/2b73d985-ec01-4615-9838-c9c155518093)
 ![Screenshot (383)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/deb46fe9-4d7c-4b0c-bed0-d98b23532ef5)
 ![Screenshot (382)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/be22c5ab-bb24-4fe0-8003-10dec0cf9375)
