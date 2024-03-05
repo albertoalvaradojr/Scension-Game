@@ -61,6 +61,21 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/706e4b45-0de2
 <br>
 <br>
 
+<h2>Blessed Status Logic</h2>
+
+<br>
+Blessed Status allows player to enter the Boss arena and automatically teleports their team inside. You cannot use abilities while Blessed and once you die or get downed, the status goes away. I synced the status to the UI and added in A VFX that was created by one of the artist of the team.
+
+<br>
+<br>
+
+![Screenshot (385)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/c1bd575d-ed6d-4ea5-882a-50dd1decbf33)
+
+
+<br>
+<br>
+
+<h2>Dragon Call</h2>
 
 
 
