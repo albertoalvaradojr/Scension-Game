@@ -17,7 +17,7 @@ Developed a Directional UI element that directs the player to where the Objectiv
 <br>
 
 
-<video src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327-41d3-af2c-ee07aee9ed62" width="750"/>
+<video src="https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327-41d3-af2c-ee07aee9ed62" width="1000"/>
 
 <br>
 <br>
