@@ -9,15 +9,22 @@ In charge of Implementing UI and core gameplay mechanics. Some examples can be s
 
 
 <h2>
-  Directional UI
+  Directional UI and Map
 </h2>
-Developed a Directional UI element that directs the player to where the Objective is.
+Developed a Directional UI element that directs the player to where the Objective is. As well, modified a MiniMap plugin and made it my own. Also, added a Fullmap Logic.
 
 <br>
 <br>
 
 
 https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327-41d3-af2c-ee07aee9ed62
+<br>
+![Screenshot (384)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/2b73d985-ec01-4615-9838-c9c155518093)
+![Screenshot (383)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/deb46fe9-4d7c-4b0c-bed0-d98b23532ef5)
+![Screenshot (382)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/be22c5ab-bb24-4fe0-8003-10dec0cf9375)
+![Screenshot (381)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/695546e1-5e2c-498c-8c3b-8d0f4a1aa17f)
+![Screenshot (387)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/24711642-567c-4b77-b52a-0dc6e7801697)
+![Screenshot (386)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/7921f994-c846-4301-b0ec-f3da176dbc84)
 
 <br>
 <br>
@@ -48,5 +55,12 @@ Security system that you can construct that lets your team know when an enemy ha
 
 
 https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/706e4b45-0de2-44db-a205-bde35cf4802f
+
+<br>
+<br>
+
+
+
+
 
 
