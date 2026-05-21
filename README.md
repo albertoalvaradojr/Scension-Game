@@ -25,7 +25,7 @@ Responsible for implementing UI systems and core gameplay mechanics. Features sh
 <h2>
   Directional UI and Map
 </h2>
-Developed a Directional UI element that directs the player to where the Objective is. As well, modified a MiniMap plugin and made it my own. Also, added a Fullmap Logic.
+Developed a directional UI system that guides players toward active objectives in real time. Customized and expanded an existing minimap plugin to better fit the game’s design and gameplay needs, including implementing full map functionality and supporting logic.
 
 <br>
 <br>
@@ -59,7 +59,8 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/92549cde-0327
 <h2>
   Combat Meter
 </h2>
-Combat meter that lets the player know when the player is free of combat. Once he is damaged the progess meter goes to zero and slowly increases until it reaches the no combat status. As well, the Health number inside the circle is synced with the health bar the the player can know exactly how much health they have.
+Developed a combat status meter that informs players when they are out of combat. When the player takes damage, the progress meter resets and gradually refills until the player returns to a non-combat state. Also synchronized the health value displayed inside the UI circle with the player’s health bar, allowing players to view their exact remaining health in real time.
+
 
 <br>
 <br>
@@ -86,7 +87,7 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/a97c6c70-738a
 
 
 
-Security system that you can construct that lets your team know when an enemy has entered your controlling arena. UI Indicators will let you know the second the enemy passes the security gates.
+Implemented a constructible security system that alerts teammates when enemies enter a controlled arena. Designed real-time UI indicators that immediately notify players when an enemy passes through the security gates, improving team awareness and defensive coordination.
 
 <br>
 <br>
@@ -113,7 +114,8 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/706e4b45-0de2
 <h2>Blessed Status/Teleporter Logic</h2>
 
 <br>
-Blessed Status allows player to enter the Boss arena and automatically teleports their team inside. You cannot use abilities while Blessed and once you die or get downed, the status goes away. Players can only get the status by taking the Teleporter at the end of the map to the Floating Island(Cost 10,000 gold) and then drink from the founatin. I synced the status to the UI and added in A VFX that was created by one of the artist of the team. All players will know how many players are blessed.
+Implemented the “Blessed” status system, which grants players access to the boss arena and automatically teleports their entire team inside. Designed gameplay restrictions preventing players from using abilities while Blessed, with the status being removed upon death or downed state. Players obtain the status by reaching the Floating Island via the end-map teleporter and interacting with the fountain after paying 10,000 gold. Integrated the status with the UI so all players can track how many teammates are currently Blessed, and synchronized custom VFX created by the art team to visually represent the effect in-game.
+
 
 <br>
 <br>
@@ -149,10 +151,7 @@ https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/4e264437-6db0
 
 <h2>Dragon Call</h2>
 
-When a dragon call is made, a 2 minute timer begins counting down. Teams only retain the information of the dragon call timers and the dragon pit statuses to arena’s that their team controls.
-When within the circular minimap radius of enemy dragon pits, the dragon-pit information is visible to all allies, but only while remaining inside of the circular minimap radius.
-When the 2 minute dragon timer has elapsed a random dragon of the multiple different types will arrive in the pit and stay in the dragon pit until any team has slain the dragon.
-To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon, the whole team recieves a power up.
+Implemented the Dragon Call event system, where activating a Dragon Call for 10,000 gold starts a two-minute countdown before a random dragon type spawns in the dragon pit. Designed territory-based information visibility so teams can only view dragon call timers and pit statuses for arenas they currently control. Added minimap proximity logic allowing allied players to temporarily see enemy dragon pit information when inside the pit’s circular minimap radius. Once the countdown expires, a random dragon remains active in the pit until defeated by a team. After slaying the dragon, the entire team receives a temporary power-up reward.
 
 <br>
 <br>
@@ -189,7 +188,8 @@ To activate the Dragon Call, 10,000 gold is required. After Defeating the dragon
 <h2>Neutral Rewards Logic</h2>
 
 <br>
-Neutral rewards are released in 4 sections that are continuously cycled throughout the entire match. Starting at 90 seconds into the match the reward zones labeled #1 will activate(releasing a treasure chest) at the marked location, allowing any player from any team to collect the neutral reward, rewarding their entire team with massive amounts of gold. I implemented the logic behind the Neutral Reward Timers,spawning, and UI for the rewards.
+Implemented the Neutral Reward system, where reward zones rotate continuously across four different sections throughout the match. Designed the gameplay logic so that, beginning 90 seconds into the match, reward zones labeled “#1” activate and spawn treasure chests at designated map locations. Any player from any team can capture the neutral reward, granting their entire team a large gold bonus. Developed the core systems for neutral reward timers, reward spawning behavior, and UI integration to keep players informed of active reward locations and timings.
+
 
 <br>
 
