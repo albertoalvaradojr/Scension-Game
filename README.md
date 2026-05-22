@@ -1,8 +1,29 @@
 # Scension-Game
-Created using Unreal Engine 5 and Lyra's Plugin.
-<br>
-<br>
-Responsible for implementing UI systems and core gameplay mechanics. Features shown below include the minimap, team player list, player stats display, arena status tracker, gold inventory system, abilities, and combat meter.
+# Team-Based Multiplayer Arena Prototype
+
+A 5v5 competitive multiplayer game prototype built in Unreal Engine 5 using Lyra framework.
+
+## 🧠 Overview
+Players compete across multiple teams to progress through objectives and reach a final boss arena.
+
+## ⚙️ My Contributions
+- Implemented core gameplay systems using Lyra framework
+- Built UI systems (minimap, player status, gold inventory, combat meter)
+- Designed and integrated arena progression logic
+- Worked on gameplay feedback systems and player state tracking
+
+## 🎯 Key Features
+- Multiplayer team-based structure
+- Objective-driven match progression
+- Dynamic UI with real-time player information
+- Arena state transitions and reward cycles
+
+## 🧩 Systems Built
+- UI Layer (HUD, minimap, stats panels)
+- Gameplay loop architecture
+- Interaction systems for objectives and rewards
+
+## 🎥 Examples
 
 
 ![Screenshot (369)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/a14dbee3-0a36-453c-91bb-356ef0a401cb)
