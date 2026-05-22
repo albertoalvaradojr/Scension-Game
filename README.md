@@ -25,9 +25,6 @@ Players compete across multiple teams to progress through objectives and reach a
 
 ## 🎥 Examples
 
-
-![Screenshot (369)](https://github.com/albertoalvaradojr/Scension-Game/assets/65637580/a14dbee3-0a36-453c-91bb-356ef0a401cb)
-
 <br>
 <br>
 <br>
